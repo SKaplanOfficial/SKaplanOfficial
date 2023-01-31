@@ -34,6 +34,7 @@ Email: [stephen.kaplan@maine.edu](stephen.kaplan@maine.edu)
 
 # [Raycast](https://www.raycast.com) Extensions
 
+<a href="https://www.raycast.com/HelloImSteven/internet-radio"><img src="https://www.raycast.com/HelloImSteven/internet-radio/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
 <a href="https://www.raycast.com/HelloImSteven/pins"><img src="https://www.raycast.com/HelloImSteven/pins/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
 <a href="https://www.raycast.com/HelloImSteven/man-pages"><img src="https://www.raycast.com/HelloImSteven/man-pages/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
 <a href="https://www.raycast.com/HelloImSteven/iwork"><img src="https://www.raycast.com/HelloImSteven/iwork/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
