@@ -39,3 +39,4 @@ Email: [stephen.kaplan@maine.edu](stephen.kaplan@maine.edu)
 <a href="https://www.raycast.com/HelloImSteven/man-pages"><img src="https://www.raycast.com/HelloImSteven/man-pages/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
 <a href="https://www.raycast.com/HelloImSteven/iwork"><img src="https://www.raycast.com/HelloImSteven/iwork/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
 <a href="https://www.raycast.com/HelloImSteven/bike"><img src="https://www.raycast.com/HelloImSteven/bike/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
+<a title="Install jump Raycast Extension" href="https://www.raycast.com/HelloImSteven/jump"><img src="https://www.raycast.com/HelloImSteven/jump/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
