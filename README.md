@@ -40,4 +40,5 @@ Email: [stephen.kaplan@maine.edu](stephen.kaplan@maine.edu)
 <a href="https://www.raycast.com/HelloImSteven/iwork"><img src="https://www.raycast.com/HelloImSteven/iwork/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
 <a href="https://www.raycast.com/HelloImSteven/bike"><img src="https://www.raycast.com/HelloImSteven/bike/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
 <a title="Install sips Raycast Extension" href="https://www.raycast.com/HelloImSteven/sips"><img src="https://www.raycast.com/HelloImSteven/sips/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
+<a title="Install keyboard-shortcut-sequences Raycast Extension" href="https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences"><img src="https://www.raycast.com/HelloImSteven/keyboard-shortcut-sequences/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
 <a title="Install jump Raycast Extension" href="https://www.raycast.com/HelloImSteven/jump"><img src="https://www.raycast.com/HelloImSteven/jump/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
